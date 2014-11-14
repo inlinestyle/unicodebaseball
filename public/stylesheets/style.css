@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.bigUnicodeBaseball {
+    font-family: monaco, Consolas, 'Lucida Console', monospace;
+    font-size: 600px;
+    line-height: 26px;
+}
+
+a {
+    color: #00B7FF;
+}
